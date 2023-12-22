@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [N3XT-UP-GmbH/N3XT-UP-GmbH](https://github.com/N3XT-UP-GmbH/N3XT-UP-GmbH)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|11/24/23 <br/>Report generated|
+|1<br/>Tools used|12/22/23 <br/>Report generated|
 |------|------|
 </div>
 
